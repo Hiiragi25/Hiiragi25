@@ -9,7 +9,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="reactjs" alt="reactjs" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="sass/scss" alt="sass/scss" width="40" height="40"/>&nbsp;
 </div>-->
-<img src="https://img.shields.io/badge/PHP-black?style=for-the-badge&logo=php&logoColor=red"/>
+<img src="https://img.shields.io/badge/PHP-black?style=for-the-badge&logo=php&logoColor=#FF4500"/>
 
 ### ⚙️ GitHub статистика:
 
